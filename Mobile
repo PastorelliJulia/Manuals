@@ -1,4 +1,4 @@
-Iniciar projeto 
+Iniciar projeto
 
 1. npm i -g expo-cli ou - npm i -g react-native expo-cli
 2. expo init nomeDoProjeto
