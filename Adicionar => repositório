@@ -1,0 +1,8 @@
+Adicionar pasta à um repositório
+
+git init
+git remote add origin https://github.com/PastorelliJulia/'nomeDoRepositorio'.git
+git add .
+git commit -a -m "readme"
+git branch -M main
+git push -u origin main
