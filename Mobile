@@ -3,8 +3,7 @@ Iniciar projeto
 1. npm i -g expo-cli ou - npm i -g react-native expo-cli
 2. expo init nomeDoProjeto
 3. cd nomeDoProjeto
-4. expo start
-5. expo start --web 
+4. expo start ou expo start --web 
 
 Caso dê problema:
 -npm i --force --web
